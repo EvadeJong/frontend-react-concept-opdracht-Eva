@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Condensed:wght@300&display=swap');
+
+:root {
+    --Rood: #dd3038;
+    --Oranje: #e7613a;
+    --Licht-oranje: #FDF4F2;
+    --Zwart: #292929;
+    --Wit: #FFFFFF;
+}
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}

@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom";
 import React from "react";
-function Subreddit({title, description, subscribers}) {
+function SubredditContext({title, description, subscribers}) {
 
     return (
         <article>
@@ -19,4 +19,4 @@ function Subreddit({title, description, subscribers}) {
         </article>
     )
 }
-export default Subreddit;
+export default SubredditContext;
